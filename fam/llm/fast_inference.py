@@ -197,3 +197,5 @@ class TTS:
 
 if __name__ == "__main__":
     tts = tyro.cli(TTS)
+
+q = q.half()
